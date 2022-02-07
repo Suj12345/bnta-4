@@ -1,6 +1,4 @@
-package com.bnta.week_three_mon.Using_Classes;
-
-import java.util.Arrays;
+package com.bnta.week_three_mon.Into_to_classes;
 
 public class Main {
     public static void main(String[] args) {

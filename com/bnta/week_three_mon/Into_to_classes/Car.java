@@ -1,4 +1,4 @@
-package com.bnta.week_three_mon.Using_Classes;
+package com.bnta.week_three_mon.Into_to_classes;
 
 import java.util.Objects;
 
