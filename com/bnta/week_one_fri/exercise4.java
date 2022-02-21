@@ -7,7 +7,8 @@ public class exercise4 {
         String[] string2 = string1.split(", ");
         for(int i= 0; i<= string2.length -1 ; i++){
             result = result + Double.parseDouble(string2[i]);
-            //converts string to double(decimal)
+            //Double.parseDoubleconverts string
+            //Remember that double is a primitive and Double is an object
         }
         System.out.println(result);
     }
