@@ -36,6 +36,9 @@ public class Exercise3 {
                 }
             }
         }
+        if (!stack.isEmpty()){
+            balanced = false;
+        }
         return balanced;
     }
 }
